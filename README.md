@@ -1,4 +1,4 @@
-This constitution defines a set of technical and organizational rules to guide the development of a modern Python project using the Spec Kit.
+This constitution defines a set of technical and organizational rules to guide the development of a modern Python project using the [Spec Kit](https://github.com/github/spec-kit).
 
 It mandates that the code adhere to Python best practices, including PEP 8, PEP 257, type hints, the use of `pyproject.toml`, automated testing, linting, formatting, static analysis, and atomic commits. The primary focus is ensuring readability, simplicity, maintainability, and predictability.
 
