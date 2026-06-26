@@ -1,4 +1,4 @@
-This (constitution)[https://github.com/maxsonferovante/proposal-python-constitution-spec-kit/blob/main/constitution.md] defines a set of technical and organizational rules to guide the development of a modern Python project using the [Spec Kit](https://github.com/github/spec-kit).
+This [constitution](https://github.com/maxsonferovante/proposal-python-constitution-spec-kit/blob/main/constitution.md) defines a set of technical and organizational rules to guide the development of a modern Python project using the [Spec Kit](https://github.com/github/spec-kit).
 
 It mandates that the code adhere to Python best practices, including PEP 8, PEP 257, type hints, the use of `pyproject.toml`, automated testing, linting, formatting, static analysis, and atomic commits. The primary focus is ensuring readability, simplicity, maintainability, and predictability.
 
@@ -22,4 +22,4 @@ It also establishes standards for testing, error handling, security, configurati
 
 Each stage must adhere to the defined principles, ensuring that specifications, plans, tasks, and implementations are coherent, testable, well-documented, and aligned with the project architecture.
 
-(Download)[https://github.com/maxsonferovante/proposal-python-constitution-spec-kit/blob/main/constitution.md]
+[Download](https://github.com/maxsonferovante/proposal-python-constitution-spec-kit/blob/main/constitution.md)
